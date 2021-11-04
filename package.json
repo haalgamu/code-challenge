@@ -1,0 +1,15 @@
+{
+  "name": "testtaskendpointporject",
+  "version": "1.0.0",
+  "description": "Coding challenge of endpoint",
+  "main": "directories.js",
+  "scripts": {
+    "start": "node directories.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "challenge"
+  ],
+  "author": "Alexander Gallardo",
+  "license": "ISC"
+}
